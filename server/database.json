@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "projectID": "1",
+      "projectName": "Frontoffice Management System",
+      "dateOfStart": "2019-07-12",
+      "teamSize": 10
+    },
+    {
+      "id": 1,
+      "projectID": "2",
+      "projectName": "Reporting tool",
+      "dateOfStart": "2022-03-05",
+      "teamSize": 20
+    },
+    {
+      "projectID": 6,
+      "projectName": "ABC",
+      "dateOfStart": null,
+      "teamSize": 10,
+      "id": 2
+    }
+  ]
+}
