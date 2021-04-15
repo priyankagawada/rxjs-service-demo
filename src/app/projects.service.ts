@@ -30,4 +30,9 @@ export class ProjectsService {
   }
 
 
+  deleteProject(ProjectID: number) : Observable<string>
+  {
+    return this.httpClient.delete<string>("http://localhost:3000/projects?ProjectID=" + ProjectID);
+  }
+
 }
